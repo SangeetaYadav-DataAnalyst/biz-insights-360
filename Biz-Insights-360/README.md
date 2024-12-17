@@ -1,39 +1,33 @@
 # Business Insights 360 of Atliq Hardwares
 
 [Link to Interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiODY1ZTVlNzctMWMxNC00OWUyLWIyOTQtM2FhZmEzZjlkMDJiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+ 
+**Background:**
+AtliQ Hardware, a rapidly expanding organization, has adopted Power BI to harness the power of data analytics. This strategic initiative seeks to unlock actionable insights across key business functions, including finance, sales, marketing, and supply chain, ultimately driving informed decision-making and a sustainable competitive advantage.
 
-
-
-AtliQ Hardware, a rapidly growing company, has decided to use PowerBi for data analytics to gain a competitive edge and make informed decisions. This project aims to provide insights into various aspects such as finance, sales, marketing, and supply chain.
-
-I, Srinath, worked on this project by following the Codebasics PowerBi Course and used the following tools and techniques:
+I, Sangeeta Yadav, successfully executed this project by leveraging the Codebasics Power BI Course and used the following tools and techniques:
 
 **Tech Stacks:**
-
-1. SQL
-2. PowerBi Desktop
-3. Excel
-4. DAX language
-5. DAX Studio (for report optimization)
-6. Project charter file
+- SQL for data extraction and manipulation
+- Power BI Desktop for data visualization and reporting
+- Excel for data preparation and analysis
+- DAX language for creating calculated measures and columns
+- DAX Studio for optimizing report performance
+- Project charter file for defining project scope and objectives
 
 **PowerBI Techniques Learned:**
-
-1.  Asking the right questions before starting a project
-2.  Creating calculated columns
-3.  Creating measures using the DAX language
-4.  Data modeling
-5.  Using Bookmarks to switch between visuals
-6.  Page navigation with buttons
-7.  Preventing zero division errors using the divide function
-8.  Dynamic titles based on applied filters
-9.  Using KPI indicators
-10. Conditional formatting of visual values with icons or background colour
-11. Data validation techniques
-12. Publishing reports to Power BI services
-13. Setting up a personal gateway for data auto-refresh
-14. Creating PowerBi Apps
-15. Collaborating, managing workspaces, and setting access permissions in Power BI services
+1. _Requirements Gathering:_ Asking the right questions before starting a project
+2. Data Transformation: Creating calculated columns and measures using DAX
+3. Data Modeling: Designing and optimizing data structures
+4. Visualization: Using Bookmarks, page navigation, and buttons for interactive reports
+5. Error Handling: Preventing zero division errors using the divide function
+6. Dynamic Reporting: Creating dynamic titles based on applied filters
+7. KPI Development: Using KPI indicators for performance tracking
+8. Visual Formatting: Applying conditional formatting with icons or background colors
+9. Data Validation: Implementing data validation techniques for data quality
+10. Publishing and Sharing: Publishing reports to Power BI services and setting up personal gateways
+11. App Development: Creating Power BI Apps for customized reporting
+12. Collaboration and Security: Collaborating, managing workspaces, and setting access permissions in Power BI services
 
 **Company Background:**
 AtliQ Hardware sells computers and accessories through retailers and direct distributors worldwide. They recently faced unexpected losses in their American store due to decisions based on surveys, intuition, and limited Excel analysis. To compete better, the company needs to build an analytics team for data-driven insights and decisions.
@@ -43,8 +37,9 @@ This project aims to clarify the purpose and goals of the data analytics initiat
 
 **Overall Report**
 
-Home Page of the Dashboard
-![h](https://github.com/srinathankolla/Business-Insights-360-of-Atliq-Hardwares/assets/115559003/58e70799-b228-4691-bbd5-2f93e341ca16)
+Home Page of the Dashboard 
+![image](https://github.com/user-attachments/assets/39afc1b3-4875-4248-8521-fc33ade54d88)
+
 
 Finance View
 ![f](https://github.com/srinathankolla/Business-Insights-360-of-Atliq-Hardwares/assets/115559003/0825e7c3-3090-423e-9470-12d81a2e371e)
