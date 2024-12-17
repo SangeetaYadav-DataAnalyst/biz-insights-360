@@ -19,18 +19,18 @@ I, Sangeeta Yadav, successfully executed this project by leveraging the Codebasi
 - Project charter file for defining project scope and objectives
 
 **PowerBI Techniques Learned:**
-1. _Requirements Gathering:_ Asking the right questions before starting a project
-2. _ Data Transformation:_ Creating calculated columns and measures using DAX
-3. _ Data Modeling:_ Designing and optimizing data structures
-4. _Visualization:_ Using Bookmarks, page navigation, and buttons for interactive reports
-5. _Error Handling:_ Preventing zero division errors using the divide function
-6. _Dynamic Reporting:_ Creating dynamic titles based on applied filters
-7. _KPI Development:_ Using KPI indicators for performance tracking
-8. _Visual Formatting:_ Applying conditional formatting with icons or background colors
-9. _Data Validation:_ Implementing data validation techniques for data quality
-10. _Publishing and Sharing:_ Publishing reports to Power BI services and setting up personal gateways
-11. _App Development:_ Creating Power BI Apps for customized reporting
-12. _Collaboration and Security:_ Collaborating, managing workspaces, and setting access permissions in Power BI services
+- _Requirements Gathering:_ Asking the right questions before starting a project
+- _Data Transformation:_ Creating calculated columns and measures using DAX
+- _Data Modeling:_ Designing and optimizing data structures
+- _Visualization:_ Using Bookmarks, page navigation, and buttons for interactive reports
+- _Error Handling:_ Preventing zero division errors using the divide function
+- _Dynamic Reporting:_ Creating dynamic titles based on applied filters
+- _KPI Development:_ Using KPI indicators for performance tracking
+- _Visual Formatting:_ Applying conditional formatting with icons or background colors
+- _Data Validation:_ Implementing data validation techniques for data quality
+- _Publishing and Sharing:_ Publishing reports to Power BI services and setting up personal gateways
+- _App Development:_ Creating Power BI Apps for customized reporting
+- _Collaboration and Security:_ Collaborating, managing workspaces, and setting access permissions in Power BI services
 
 **Project Outcome:**
 This project aims to define the purpose and objectives of AtliQ Hardware’s data analytics initiative. By leveraging advanced reporting tools, the project will generate insights that enable data-driven decision-making and address critical questions about the company’s performance across key areas.
